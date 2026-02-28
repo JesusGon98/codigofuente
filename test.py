@@ -24,9 +24,7 @@ data = [
     {"name": "Santiago",
      "fillcolor": "orange",
      "backcolor": "white"}
-] 
-
-
+]
 
 for elemento in data:
     qr = qrcode.QRCode(
